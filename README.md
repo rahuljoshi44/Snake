@@ -1,8 +1,13 @@
 # Snake
 The classic game of 'Snake' written Object Oriented C++ 98 in DOS!
-![](demo/gameplay.png)
+<p align="center">
+  <img width="460" height="300" src="demo/gameplay.png">
+</p>
+
 
 # How to play?
 Here are the instructions:
-![](demo/instructions.png)
+<p align="center">
+  <img width="460" height="300" src="demo/instructions.png">
+</p>
 
